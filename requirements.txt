@@ -1,0 +1,23 @@
+--index-url https://download.pytorch.org/whl/cu118
+--extra-index-url https://pypi.org/simple
+torch==2.6.0+cu118
+transformers>=4.51.0
+sentence-transformers>=3.0.0
+accelerate
+datasets
+tqdm
+mteb>=2.0.0
+openai>=1.0.0
+tiktoken
+google-genai
+voyageai
+tenacity>=8.2.0
+einops
+scikit-learn
+pandas
+numpy
+huggingface_hub
+matplotlib
+seaborn
+bm25s
+PyStemmer
